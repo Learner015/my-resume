@@ -1,0 +1,12 @@
+h1{
+    border:6px;
+    text-decoration: cadetblue;
+}
+body{
+    background-image: url("mypic.jpg")
+}
+.container
+{
+    background-image: -moz-linear-gradient(120);
+    opacity: 30%;
+}
